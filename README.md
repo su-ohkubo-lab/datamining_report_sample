@@ -12,10 +12,10 @@ terminal で以下を入力
 $ platex report.tex
 ```
 
-これで `report.dvi' ファイルなどが作られる．その後，以下を入力．
+これで `report.dvi` ファイルなどが作られる．その後，以下を入力．
 
 ```sh
 $ dvipdfmx report.dvi
 ```
 
-これで `report.pdf' が作られる．
+これで `report.pdf` が作られる．
